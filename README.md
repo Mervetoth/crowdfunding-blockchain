@@ -30,4 +30,3 @@ MIT License
 - **Name**: Mervet Othman
 - **Email**: othmann.mervet@gmail.com
 - **GitHub**: [Mervetoth](https://github.com/Mervetoth)
-```
